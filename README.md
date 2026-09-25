@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Dharanidhara<br>I thrive on challenging myself and embracing new opportunities in the dynamic world of technology. With a keen interest in the latest advancements, I'm dedicated to [...]
+Hi there 👋, I'm Dharanidhara<br>I thrive on challenging myself and embracing new opportunities in the dynamic world of technology. With a strong passion for Generative AI and Agentic AI, I'm dedicated to building intelligent, autonomous, and impactful solutions that solve real-world problems. I enjoy exploring large language models, AI agents, intelligent workflows, and scalable AI applications while continuously learning about the latest technological advancements. My goal is to contribute to the future of AI engineering by creating innovative systems that improve productivity, enhance decision-making, and make a meaningful difference.
 
 
 ## 🌐 Socials:
